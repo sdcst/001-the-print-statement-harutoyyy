@@ -12,6 +12,7 @@ Expected output:
 This is the first sentence.
 This is the second sentence.
 """
-
-print("This is the first sentence.\n This is the second sentence.")
+print("It uses 'two commands' to display the output.")
+print("This is the first sentence.\nThis is the second sentence.")
+print("It uses \"two commands\" to display the output.")
 
